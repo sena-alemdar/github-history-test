@@ -1,1 +1,4 @@
-# Test file for revert
+# Test for AI adoption metrics
+# AI coding assistants have reached 91% adoption in engineering organizations (Q4 2025).
+Tracking AI adoption and its impact on productivity is becoming a key differentiator for engineering intelligence platforms.
+This document explores how competitors measure AI adoption and outlines two potential approaches for Pollyn.
